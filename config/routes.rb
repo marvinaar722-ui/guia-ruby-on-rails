@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+#Ruta raiz: apunta a la accion saludo (ejercicio propuesto 3)
 root 'application#saludo'
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
